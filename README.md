@@ -6,7 +6,7 @@
 
 ## What is Railpath?
 
-Railpath is an open source organization dedicated to building financial and technical tools that remain truly independent—free from corporate ownership and personal control.
+Railpath is an open source organization dedicated to building financial and technical tools that remain truly independent, free from corporate ownership and personal control.
 
 Like railway tracks that guide safely through complex terrain, our projects provide reliable, transparent infrastructure for developers and financial professionals.
 
@@ -29,7 +29,7 @@ TypeScript library for portfolio analysis, risk metrics, and financial calculati
 ### [@railpath/web3-open-risk-framework](https://github.com/railpath/web3-open-risk-framework)
 Open risk assessment framework for decentralized finance and blockchain investments.
 
-**License**: Free for non-commercial use. Commercial licensing available—contact for terms.
+**License**: Free for non-commercial use. Commercial licensing available, contact for terms.
 
 ## Contributing
 
