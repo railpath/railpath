@@ -1,12 +1,12 @@
 <img src="railpath-logo.png" alt="Railpath" width="80" align="left">
 
-# Railpath
+# RailPath
 
 **Open source tools that should belong to everyone.**
 
-## What is Railpath?
+## What is RailPath?
 
-Railpath is an open source organization dedicated to building financial and technical tools that remain truly independent, free from corporate ownership and personal control.
+RailPath is an open source organization dedicated to building financial and technical tools that remain truly independent, free from corporate ownership and personal control.
 
 Like railway tracks that guide safely through complex terrain, our projects provide reliable, transparent infrastructure for developers and financial professionals.
 
