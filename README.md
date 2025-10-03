@@ -24,7 +24,7 @@ TypeScript library for portfolio analysis, risk metrics, and financial calculati
 
 **License**: MIT (fully open source)
 
-### [@railpath/web3-risk-framework](https://github.com/railpath/web3-open-risk-framework)
+### [@railpath/web3-open-risk-framework](https://github.com/railpath/web3-open-risk-framework)
 Open risk assessment framework for decentralized finance and blockchain investments.
 
 **License**: Free for non-commercial use. Commercial licensing available—contact for terms.
