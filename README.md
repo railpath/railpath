@@ -1,3 +1,5 @@
+<img src="railpath-logo.png" alt="Railpath" width="80" align="left">
+
 # Railpath
 
 **Open source tools that should belong to everyone.**
